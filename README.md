@@ -176,15 +176,11 @@ $ whoami
 
 ---
 
-### `./contributions --snake`
+### `./contributions --graph`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranChiHuu/TranChiHuu/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranChiHuu/TranChiHuu/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/TranChiHuu/TranChiHuu/output/github-snake.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TranChiHuu&theme=github-compact&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
