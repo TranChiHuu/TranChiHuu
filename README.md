@@ -124,63 +124,26 @@ $ whoami
 
 ### `ls -la ~/open-source`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/TranChiHuu/sandbox-cli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TranChiHuu&repo=sandbox-cli&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=39d353&title_color=58a6ff" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/TranChiHuu/postgres-mysql-mcp-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TranChiHuu&repo=postgres-mysql-mcp-server&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=39d353&title_color=58a6ff" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/TranChiHuu/AI-runtime-guard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TranChiHuu&repo=AI-runtime-guard&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=39d353&title_color=58a6ff" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/TranChiHuu/lixi-tet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TranChiHuu&repo=lixi-tet&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=39d353&title_color=58a6ff" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
+| repo | what it does | |
+|:--|:--|:--|
+| **[sandbox-cli](https://github.com/TranChiHuu/sandbox-cli)** | Sandbox AI coding agents in Docker — only your project is mounted, not your real device. | ![](https://img.shields.io/github/languages/top/TranChiHuu/sandbox-cli?style=flat-square&labelColor=0d1117&color=1f6feb) ![](https://img.shields.io/github/stars/TranChiHuu/sandbox-cli?style=flat-square&labelColor=0d1117&color=39d353) ![](https://img.shields.io/github/last-commit/TranChiHuu/sandbox-cli?style=flat-square&labelColor=0d1117&color=58a6ff) |
+| **[postgres-mysql-mcp-server](https://github.com/TranChiHuu/postgres-mysql-mcp-server)** | MCP server giving AI assistants safe, typed access to PostgreSQL and MySQL. | ![](https://img.shields.io/github/languages/top/TranChiHuu/postgres-mysql-mcp-server?style=flat-square&labelColor=0d1117&color=1f6feb) ![](https://img.shields.io/github/stars/TranChiHuu/postgres-mysql-mcp-server?style=flat-square&labelColor=0d1117&color=39d353) ![](https://img.shields.io/github/last-commit/TranChiHuu/postgres-mysql-mcp-server?style=flat-square&labelColor=0d1117&color=58a6ff) |
+| **[AI-runtime-guard](https://github.com/TranChiHuu/AI-runtime-guard)** | Runtime guardrails for AI agents executing on real machines. | ![](https://img.shields.io/github/languages/top/TranChiHuu/AI-runtime-guard?style=flat-square&labelColor=0d1117&color=1f6feb) ![](https://img.shields.io/github/stars/TranChiHuu/AI-runtime-guard?style=flat-square&labelColor=0d1117&color=39d353) ![](https://img.shields.io/github/last-commit/TranChiHuu/AI-runtime-guard?style=flat-square&labelColor=0d1117&color=58a6ff) |
+| **[lixi-tet](https://github.com/TranChiHuu/lixi-tet)** | Tết lì xì web app — pick a red envelope, get a random lucky amount. | ![](https://img.shields.io/github/languages/top/TranChiHuu/lixi-tet?style=flat-square&labelColor=0d1117&color=1f6feb) ![](https://img.shields.io/github/stars/TranChiHuu/lixi-tet?style=flat-square&labelColor=0d1117&color=39d353) ![](https://img.shields.io/github/last-commit/TranChiHuu/lixi-tet?style=flat-square&labelColor=0d1117&color=58a6ff) |
 
 ### `git log --stat`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TranChiHuu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=39d353&title_color=58a6ff&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranChiHuu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" />
-
-<img height="165" src="https://streak-stats.demolab.com?user=TranChiHuu&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=58A6FF" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=TranChiHuu&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://streak-stats.demolab.com?user=TranChiHuu&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=58A6FF&date_format=j%20M%5B%20Y%5D" height="180" />
 
 </div>
-
----
 
 ### `./contributions --graph`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TranChiHuu&theme=github-compact&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://ghchart.rshah.org/39d353/TranChiHuu" alt="contribution chart" width="90%" />
 
 </div>
 
