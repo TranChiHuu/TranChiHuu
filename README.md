@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:39d353&height=180&section=header&text=Huu%20Tran%20Chi&fontColor=ffffff&fontSize=48&fontAlignY=34&desc=Software%20Engineer%20%26%20Technical%20Leader%20%C2%B7%20Ho%20Chi%20Minh%20City%2C%20Vietnam&descSize=14&descAlignY=54&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:39d353&height=180&section=header&text=Huu%20Tran%20Chi&fontColor=ffffff&fontSize=48&fontAlignY=34&desc=Software%20Engineer%20%C2%B7%20Technical%20Leader%20%C2%B7%20Ho%20Chi%20Minh%20City%2C%20Vietnam&descSize=14&descAlignY=54&animation=fadeIn" width="100%" />
 
 <a href="https://huutran.dev">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=39D353&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+Michael+(Huu+Tran+Chi);%24+7%2B+yrs+%C2%B7+backend+%C2%B7+cloud+%C2%B7+AI;%24+terraform+apply+--auto-approve;%24+go+run+.%2Fcmd%2Fserver+--grpc" alt="typing" />
