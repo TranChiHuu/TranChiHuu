@@ -131,14 +131,6 @@ $ whoami
 | **[AI-runtime-guard](https://github.com/TranChiHuu/AI-runtime-guard)** | Runtime guardrails for AI agents executing on real machines. | ![](https://img.shields.io/github/languages/top/TranChiHuu/AI-runtime-guard?style=flat-square&labelColor=0d1117&color=1f6feb) ![](https://img.shields.io/github/stars/TranChiHuu/AI-runtime-guard?style=flat-square&labelColor=0d1117&color=39d353) ![](https://img.shields.io/github/last-commit/TranChiHuu/AI-runtime-guard?style=flat-square&labelColor=0d1117&color=58a6ff) |
 | **[lixi-tet](https://github.com/TranChiHuu/lixi-tet)** | Tết lì xì web app — pick a red envelope, get a random lucky amount. | ![](https://img.shields.io/github/languages/top/TranChiHuu/lixi-tet?style=flat-square&labelColor=0d1117&color=1f6feb) ![](https://img.shields.io/github/stars/TranChiHuu/lixi-tet?style=flat-square&labelColor=0d1117&color=39d353) ![](https://img.shields.io/github/last-commit/TranChiHuu/lixi-tet?style=flat-square&labelColor=0d1117&color=58a6ff) |
 
-### `git log --stat`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=TranChiHuu&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=58A6FF&date_format=j%20M%5B%20Y%5D" height="180" />
-
-</div>
-
 ### `./contributions --graph`
 
 <div align="center">
@@ -154,6 +146,7 @@ $ whoami
 ### `curl -X POST /contact`
 
 <a href="https://huutran.dev"><img src="https://img.shields.io/badge/huutran.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39D353" /></a>
+<a href="https://www.linkedin.com/in/michaeltran1203/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 <a href="mailto:hello@huutran.dev"><img src="https://img.shields.io/badge/hello@huutran.dev-0d1117?style=for-the-badge&logo=maildotru&logoColor=EA4335" /></a>
 <a href="tel:+84965688002"><img src="https://img.shields.io/badge/(%2B84)%20965%20688%20002-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" /></a>
 
