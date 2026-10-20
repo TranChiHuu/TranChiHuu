@@ -92,47 +92,6 @@ $ whoami
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-</div>
-
----
-
-### `git log --oneline --author="Huu Tran"`
-
-```diff
-@ Lalatok Inc — Software Engineer, Leader                   Dec 2024 → now
-  Seoul, South Korea (remote)
-+ HA microservices on AWS: Golang · gRPC · PostgreSQL
-+ 100% Terraform IaC coverage, production-grade from day one
-
-@ Vitalify Asia — Software Engineer, Technical Leader       Jan 2023 → now
-  Ho Chi Minh City, Vietnam
-+ Led Daiwa Connect, Omron Healthcare SG, Helix Tospo, IELTS Vietop
-+ Re-architected Helix Tospo on AWS — 25% lower monthly cloud spend
-+ AI OCR pipeline for KENTEM: Gemini · GPT · Azure Document Intelligence
-
-@ VNPT IT — Frontend Engineer                          Feb 2022 → Jan 2023
-+ Core ERP modules for Vietnam's national telecom operator
-
-@ JIENIE-LAB ASIA — Software Engineer                  Oct 2020 → Feb 2022
-+ Micro-frontend foundation for the J2 e-commerce platform
-
-@ MOR Software JSC — Software Engineer                 May 2020 → Oct 2020
-@ E-Platform Solution — Frontend Engineer              Apr 2019 → May 2020
-```
-
----
-
-### `ls -la ~/open-source`
-
-| repo | what it does | |
-|:--|:--|:--|
-| **[sandbox-cli](https://github.com/TranChiHuu/sandbox-cli)** | Sandbox AI coding agents in Docker — only your project is mounted, not your real device. | ![](https://img.shields.io/github/languages/top/TranChiHuu/sandbox-cli?style=flat-square&labelColor=0d1117&color=1f6feb) ![](https://img.shields.io/github/stars/TranChiHuu/sandbox-cli?style=flat-square&labelColor=0d1117&color=39d353) ![](https://img.shields.io/github/last-commit/TranChiHuu/sandbox-cli?style=flat-square&labelColor=0d1117&color=58a6ff) |
-| **[postgres-mysql-mcp-server](https://github.com/TranChiHuu/postgres-mysql-mcp-server)** | MCP server giving AI assistants safe, typed access to PostgreSQL and MySQL. | ![](https://img.shields.io/github/languages/top/TranChiHuu/postgres-mysql-mcp-server?style=flat-square&labelColor=0d1117&color=1f6feb) ![](https://img.shields.io/github/stars/TranChiHuu/postgres-mysql-mcp-server?style=flat-square&labelColor=0d1117&color=39d353) ![](https://img.shields.io/github/last-commit/TranChiHuu/postgres-mysql-mcp-server?style=flat-square&labelColor=0d1117&color=58a6ff) |
-| **[AI-runtime-guard](https://github.com/TranChiHuu/AI-runtime-guard)** | Runtime guardrails for AI agents executing on real machines. | ![](https://img.shields.io/github/languages/top/TranChiHuu/AI-runtime-guard?style=flat-square&labelColor=0d1117&color=1f6feb) ![](https://img.shields.io/github/stars/TranChiHuu/AI-runtime-guard?style=flat-square&labelColor=0d1117&color=39d353) ![](https://img.shields.io/github/last-commit/TranChiHuu/AI-runtime-guard?style=flat-square&labelColor=0d1117&color=58a6ff) |
-| **[lixi-tet](https://github.com/TranChiHuu/lixi-tet)** | Tết lì xì web app — pick a red envelope, get a random lucky amount. | ![](https://img.shields.io/github/languages/top/TranChiHuu/lixi-tet?style=flat-square&labelColor=0d1117&color=1f6feb) ![](https://img.shields.io/github/stars/TranChiHuu/lixi-tet?style=flat-square&labelColor=0d1117&color=39d353) ![](https://img.shields.io/github/last-commit/TranChiHuu/lixi-tet?style=flat-square&labelColor=0d1117&color=58a6ff) |
-
----
-
 <div align="center">
 
 ### `curl -X POST /contact`
@@ -143,9 +102,5 @@ $ whoami
 <a href="tel:+84965688002"><img src="https://img.shields.io/badge/(%2B84)%20965%20688%20002-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" /></a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=TranChiHuu&style=flat-square&color=39d353&label=visitors" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:1f6feb,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
